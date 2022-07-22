@@ -1,13 +1,15 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: My Academic Website
+description: I'm Thais Ferreira-Araújo and this is my personal academic website. 
+keywords: Thais, Ferreira-Araújo, PhD, fish, researcher
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Hello, everyone! 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+I'm Thais Ferreira-Araújo and this is my personal academic website. Here you can find out more about me and my work as a scientist/researcher. Besides work, I'm also part of the [500 Women Scientist](https://500womenscientists.org/), Natal-Brazil pod. From time to time, I participate in online classes through [Skype a Scientist](https://www.skypeascientist.com/) to talk about my work, science, and fish.
+
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_updated_full_ENG_2022.pdf)<br/>
 
 
 ---
@@ -18,14 +20,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Thais Ferreira-Araújo<br/>
+            Email: thais.araujo@helsinki.fi<br/>
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../assets/Profile3.JPG">
+            <img src="../assets/Profile3.JPG"
+                  title="Thais Ferreira-Araújo" alt="Thais Ferreira-Araújo"/></a>
         </div>
     </div>
 </div>
@@ -33,9 +35,11 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV_updated_full_ENG_2022.pdf.pdf">CV</a></li>
+		  <li><a href="https://www.researchgate.net/profile/Thais_Ferreira-Araujo">ResearchGate</a></li>
+		  <li><a href="https://orcid.org/0000-0002-7405-5907">ORCID</a></li>
+          <li><a href="https://github.com/tferreira-araujo">GitHub</a></li>
+          <li><a href="https://twitter.com/ThaisFPAraujo">Twitter (@ThaisFPAraujo)</a></li>
       </ul>
   </div>
 </div>
