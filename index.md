@@ -10,6 +10,7 @@ Hello, everyone!
 I'm Thais Ferreira-Araújo and this is my personal academic website. Here you can find out more about me and my work as a scientist/researcher. Besides work, I'm also part of the [500 Women Scientist](https://500womenscientists.org/), Natal-Brazil pod. From time to time, I participate in online classes through [Skype a Scientist](https://www.skypeascientist.com/) to talk about my work, science, and fish.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_updated_full_ENG_2022.pdf)<br/>
+she/her
 
 
 ---
@@ -21,12 +22,17 @@ I'm Thais Ferreira-Araújo and this is my personal academic website. Here you ca
     <div class="row-fluid">
         <div class="span5">
             Thais Ferreira-Araújo<br/>
-            Email: thais.araujo@helsinki.fi<br/>
+			Ecological Genetics Research Unit (EGRU)<br/>
+			Faculty of Biological and Environmental Sciences<br/>
+			University of Helsinki
+			Viikinkaari 9, Helsinki 00790, Finland
+            Email (professional): thais.araujo@helsinki.fi<br/>
+			Email (personal): thaisfpa94@gmail.com<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/Profile3.JPG">
-            <img src="../assets/Profile3.JPG"
+            <img src="../assets/Profile3.JPG" width="100" height="150"
                   title="Thais Ferreira-Araújo" alt="Thais Ferreira-Araújo"/></a>
         </div>
     </div>
