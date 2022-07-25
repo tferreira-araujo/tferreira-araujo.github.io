@@ -16,7 +16,7 @@ I'm a Brazilian biologist, who is deeply fascinated by evolution. I got my bache
 
 ## Current Affairs
 
-<img src="../assets/flounders.jpeg" width="250" height="350"> <img src="../assets/present.jpeg" width="250" height="350">
+<img src="../assets/flounders.jpeg" width="250" height="350"> <img src="../assets/present.jpeg" width="500" height="350">
 
 
 In the beginning of 2021, I started my PhD studies at the Doctoral Programme in Wildlife Biology (LUOVA) at the University of Helsinki. As a new member of the Ecological Genetics Research Unit (EGRU), my research project is about the speciation, adaptation, and ecology of the European flounder (*Platichthys flesus*) in Northern Europe. My supervisors are Prof. Juha Merilä, Dr. Paolo Momigliano, and Dr. Petri Kemppainen.
