@@ -58,7 +58,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: blueviolet;
+    color: #3b0066;
 }
 
 .danger {
@@ -84,4 +84,24 @@ h1, h2, h3, h4 {
     background-color: #ffffcc;
     border-left: 6px solid #ffeb3b;
     padding-left: 10px;
+}
+
+.navbar-inner {
+    min-height:40px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color:#fafafa;
+    background-image:-moz-linear-gradient(top, #e2e8ff, #cdd7ff);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#e2e8ff), to(#f2f2f2));
+    background-image:-webkit-linear-gradient(top, #e2e8ff, #cdd7ff);
+    background-image:-o-linear-gradient(top, #e2e8ff, #cdd7ff);
+    background-image:linear-gradient(to bottom, #e2e8ff, #cdd7ff);
+    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
+    border:1px solid #e2e8ff;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.065);*zoom:1;
 }
