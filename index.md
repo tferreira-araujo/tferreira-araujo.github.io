@@ -32,7 +32,7 @@ she/her
 
         <div class="span2">
         <a href="../assets/Profile3.JPG">
-            <img src="../assets/Profile3.JPG" width="100" height="150"
+            <img src="../assets/Profile3.JPG" width="150" height="200"
                   title="Thais Ferreira-Araújo" alt="Thais Ferreira-Araújo"/></a>
         </div>
     </div>
