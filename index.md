@@ -25,14 +25,14 @@ she/her
 			Ecological Genetics Research Unit (EGRU)<br/>
 			Faculty of Biological and Environmental Sciences<br/>
 			University of Helsinki
-			Viikinkaari 9, Helsinki 00790, Finland
+			Viikinkaari 9, Helsinki 00790, Finland<br/>
             Email (professional): thais.araujo@helsinki.fi<br/>
 			Email (personal): thaisfpa94@gmail.com<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/Profile3.JPG">
-            <img src="../assets/Profile3.JPG" width="150" height="200"
+            <img src="../assets/Profile3.JPG" width="200" height="250" style="margin: 10px 10px 10px 10px;"
                   title="Thais Ferreira-Araújo" alt="Thais Ferreira-Araújo"/></a>
         </div>
     </div>
