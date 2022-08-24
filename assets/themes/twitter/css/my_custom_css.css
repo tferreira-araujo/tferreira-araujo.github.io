@@ -107,9 +107,8 @@ h1, h2, h3, h4 {
 }
 
 body {
-	color:#ffffff;
-	background-image:url("/assets/noisy-texture.png");
-	background-color:#161722;
+	color:#000000;
+	background-color:#fafafa;
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size:16px;
 	line-height:20px;
