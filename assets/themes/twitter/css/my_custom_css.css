@@ -1,7 +1,7 @@
 code {
   padding: 0;
   font-size: 90%;
-  color: lavenderblush;
+  color: #A64C4C;
   background-color: black;
   border: 0px solid white;
 }
@@ -114,7 +114,7 @@ h1, h2, h3, h4 {
 	font-weight:bold;
 	line-height:20px;
 	color:#646464;
-	text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);
+	text-shadow:none;
 	text-transform:uppercase;
 }
 
