@@ -132,6 +132,11 @@ h1, h2, h3, h4 {
 	text-shadow:0 1px 0 #000000;
 }
 
+.navbar-inverse .navbar-text {
+	color:#ffffff;
+}
+
+
 body {
 	color:#000000;
 	background-color:#C0C2CC;
