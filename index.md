@@ -32,7 +32,7 @@ she/her
 
         <div class="span2">
         <a href="../assets/Profile3.JPG">
-            <img src="../assets/Profile3.JPG" width="200" height="250" style="margin: 10px 10px 10px 10px;"
+            <img src="../assets/Profile3.JPG" width="250" height="300" style="margin: 10px 10px 10px 10px;"
                   title="Thais Ferreira-Araújo" alt="Thais Ferreira-Araújo"/></a>
         </div>
     </div>
@@ -41,7 +41,6 @@ she/her
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Academic_Resume_short_grantwriting.pdf.pdf">CV</a></li>
 		  <li><a href="https://www.researchgate.net/profile/Thais_Ferreira-Araujo">ResearchGate</a></li>
 		  <li><a href="https://orcid.org/0000-0002-7405-5907">ORCID</a></li>
           <li><a href="https://github.com/tferreira-araujo">GitHub</a></li>
