@@ -14,7 +14,7 @@ I'm a Brazilian biologist, who is deeply fascinated by evolution. I got my bache
 
 <br>
 
-## Current Affairs
+## Current affairs
 
 <img src="../assets/present.jpg" width="300" height="450" style="margin: 10px 10px 10px 0px;"> <img src="../assets/EGRU.png" width="200" height="300" style="margin: 10px 10px 10px 10px;">
 

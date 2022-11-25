@@ -2,7 +2,7 @@
 layout: frontpage
 title: My Academic Website
 description: I'm Thais Ferreira-Araújo and this is my personal academic website. 
-keywords: Thais, Ferreira-Araújo, PhD, fish, researcher
+keywords: Thais, Ferreira-Araújo, PhD, fish, researcher, evolution
 ---
 
 Hello, everyone! 
