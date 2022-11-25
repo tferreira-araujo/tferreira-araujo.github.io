@@ -14,15 +14,21 @@ description: Thais Ferreira-Araújo's scientific outreach
 Interview to local news outlets about “ginga”, a culturally important herrings in northeastern Brazil.
 [Researchers carry out investigation to define what is “ginga”](http://www.tribunadonorte.com.br/noticia/estudo-da-ufrn-desvenda-a-biologia-da-ginga/502841), [Unravelling the “Ginga”](https://nossaciencia.com.br/noticias/desvendando-a-ginga/) (in Portuguese)
 
-<img src="../assets/GINGA_KADYJA_Moment4.jpg" width="350" height="500" img align="left" style="margin: 10px 10px 10px 0px;">
+
+<img src="../assets/GINGA_KADYJA_Moment4.jpg" width="350" height="500">
+
 
 <br>
+
 
 Speaker on "IV Bertha Lutz: Women in Science" virtual event via Zoom, Universidade Federal do Rio Grande do Norte
 
-<img src="../assets/Bertha_lutz.png" width="350" height="500" img align="left" style="margin: 10px 10px 10px 0px;">
+
+<img src="../assets/Bertha_lutz.png" width="350" height="500">
+
 
 <br>
+
 
 ### 2020
 
