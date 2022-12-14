@@ -17,7 +17,7 @@ she/her
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h3><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
