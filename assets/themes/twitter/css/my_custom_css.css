@@ -132,6 +132,17 @@ h1, h2, h3, h4 {
 	text-shadow:0 1px 0 #000000;
 }
 
+.navbar .brand {
+	float:left;
+	display:block;
+	padding:10px 20px 10px;
+	margin-left:-20px;
+	font-size:20px;
+	font-weight:200;
+	color:#000000;
+	text-shadow:0 1px 0 #ffffff;
+}
+
 body {
 	color:#000000;
 	background-color:#CCCED6;
