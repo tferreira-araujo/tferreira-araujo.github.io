@@ -7,7 +7,7 @@ keywords: Thais, Ferreira-Araújo, PhD, fish, researcher, evolution
 
 Hello, everyone! 
 
-I'm Thais Ferreira-Araújo and this is my personal academic website. Here you can find out more about me and my work as a scientist/researcher. Besides work, I'm also part of the [500 Women Scientist](https://500womenscientists.org/), Natal-Brazil pod. From time to time, I participate in online classes through [Skype a Scientist](https://www.skypeascientist.com/) to talk about my work, science, and fish.
+I'm Thais Ferreira-Araújo and this is my personal academic website. Here you can find out more about me and my work as a scientist/researcher. Besides work, I'm also part of the [500 Women Scientist](https://500womenscientists.org/), Natal-Brazil pod.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Academic_Resume_short_grantwriting.pdf)<br/>
 she/her
